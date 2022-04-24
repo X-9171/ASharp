@@ -2,5 +2,7 @@
 The BASIC programming language with a few fixes and additions.
 ## How to use
 ```BASIC
-1. Double-Click 
+1. Double-Click interpreter.py
+2. Code!
 ```
+Refer to [The BASIC manual](http://www.bitsavers.org/pdf/phaseOneSystems/oasis/BASIC_Language_Reference_Manual_Mar80.pdf)
