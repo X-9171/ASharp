@@ -1,4 +1,6 @@
 # A♯
 The BASIC programming language with a few fixes and additions.
-> code
-> 
+## How to use
+```BASIC
+1. Double-Click 
+```
