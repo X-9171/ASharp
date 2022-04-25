@@ -8,7 +8,7 @@ The BASIC programming language with a few fixes and additions. This is meant to 
 Refer to [The BASIC manual](http://www.bitsavers.org/pdf/phaseOneSystems/oasis/BASIC_Language_Reference_Manual_Mar80.pdf) If you actually want to code something.
 > “Do, or do not. There is no ‘try’.” – Yoda
 ## Extras
-The file format for A♯ is .a#. 
+The file format for A♯ is .a#. I have prepared a A♯ game for you (its Tic-Tac-Toe):
 ```BASIC
 2 PRINT TAB(30);"TIC-TAC-TOE"
 4 PRINT TAB(15);"CREATIVE COMPUTING  MORRISTOWN, NEW JERSEY"
